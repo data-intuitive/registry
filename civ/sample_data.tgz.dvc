@@ -1,0 +1,4 @@
+outs:
+- md5: f0642604162fe4b1b6d3ecc484f1536c
+  size: 4169835
+  path: sample_data.tgz
